@@ -9,6 +9,8 @@
 [![NASA](https://img.shields.io/badge/data-NASA%20FIRMS-blue.svg)](https://firms.modaps.eosdis.nasa.gov/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+### Model Link Here
+### 👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
 ### **🔥 [DOWNLOAD BEST FIRE DETECTION MODEL](https://drive.google.com/file/d/1C1qppPesLh0F_4ZQEhu4ozDOM5r1TXI7/view?usp=drivesdk)**
 ## 📋 Project Overview
 
