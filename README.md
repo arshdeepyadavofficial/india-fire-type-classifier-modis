@@ -9,7 +9,7 @@
 [![NASA](https://img.shields.io/badge/data-NASA%20FIRMS-blue.svg)](https://firms.modaps.eosdis.nasa.gov/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-### **🔥 [DOWNLOAD BEST FIRE DETECTION MODEL](https://drive.google.com/your-model-link-here)**
+### **🔥 [DOWNLOAD BEST FIRE DETECTION MODEL](https://drive.google.com/file/d/1C1qppPesLh0F_4ZQEhu4ozDOM5r1TXI7/view?usp=drivesdk)**
 ## 📋 Project Overview
 
 This project develops a comprehensive machine learning system to classify fire types in India using MODIS satellite data from 2021-2023. The solution includes data preprocessing, feature engineering, model training, evaluation, and deployment through an interactive web application.
@@ -63,7 +63,7 @@ Implemented and evaluated multiple classification algorithms:
 
 ### Model Performance
 - **Best Model**: Random Forest Classifier
-- **Accuracy**: 97.77%+ t
+- **Accuracy**: 97.77%+ 
 - **Precision/Recall**: High performance across all fire type classes
 - **Feature Importance**: Thermal features (brightness, FRP) most predictive
 
